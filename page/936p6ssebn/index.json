@@ -1,0 +1,40 @@
+{
+  "id": "936p6ssebn",
+  "name": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "description": {
+    "tr": "Volt Hat Enerji, yenilenebilir enerji ve elektrik tesisat işlerini açık varsayımlarla ve iş güvenliği önceliğiyle yürüten kurgusal bir demo firmadır. Bu sitedeki projeler, belgeler ve rakamlar kurgusaldır.",
+    "en": "Volt Hat Enerji is a fictional demo company that carries out renewable energy and electrical installation work with open assumptions and safety first. Projects, certificates and figures on this site are fictional.",
+    "ar": "فولت هات للطاقة شركة تجريبية افتراضية تنفّذ أعمال الطاقة المتجددة والتمديدات الكهربائية بافتراضات معلنة وبأولوية للسلامة. المشاريع والشهادات والأرقام في هذا الموقع افتراضية."
+  },
+  "keyword": {
+    "tr": "hakkımızda",
+    "en": "about",
+    "ar": "من نحن"
+  },
+  "path": "hakkimizda",
+  "icon": "info",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "nl0hri",
+      "7kh7xf"
+    ],
+    "footer": []
+  },
+  "index": 4,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "date": "2026-10-31T14:50:15.665Z",
+  "update": "2026-10-31T15:02:13.971Z"
+}

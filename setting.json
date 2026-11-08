@@ -1,0 +1,58 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Volt Hat Enerji: GES kurulumu, elektrik taahhüt ve bakım-izleme; teklif talebi ve belgeler. (Demo site)",
+    "en": "Volt Hat Enerji: solar installation, electrical contracting and maintenance-monitoring; quote requests and certificates. (Demo site)",
+    "ar": "فولت هات للطاقة: تركيب محطات شمسية ومقاولات كهربائية وصيانة ومراقبة مع طلب عرض سعر وشهادات. (موقع تجريبي)"
+  },
+  "keyword": {
+    "tr": "GES, güneş enerjisi, elektrik taahhüt",
+    "en": "solar power plant, solar energy, electrical contracting",
+    "ar": "محطة شمسية، طاقة شمسية، مقاولات كهربائية"
+  },
+  "category": "Kurumsal",
+  "name": "Volt Hat Enerji",
+  "domain": "enerji-2.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "icon": "icon.png",
+  "theme_color": "#FB923C",
+  "publishMode": "static",
+  "font": {
+    "body": "inter",
+    "heading": "barlow-condensed",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "phone": "+90 342 000 00 00",
+  "email": "teklif@volthat.example",
+  "colorScheme": "auto",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "1px",
+    "--mx-radius-md": "2px",
+    "--mx-radius-lg": "3px",
+    "--mx-radius-xl": "4px",
+    "--mx-shadow-md": "0 24px 60px rgba(0,0,0,.4)",
+    "--mx-dur": "280ms"
+  }
+}

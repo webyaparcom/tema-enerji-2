@@ -189,7 +189,7 @@
 
   .modulex-f9__bottom .wm-langbar ul {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap; /* G1: dil seçici sarmaz (taşarsa mx-ui.js açılır listeye çevirir) */
     gap: 6px;
     list-style: none;
     margin: 0;
@@ -275,6 +275,8 @@
   .modulex-f9__bar-oge[aria-current="page"] .modulex-f9__bar-ad { font-weight: 700; }
   @media (max-width: 768px) {
     .modulex-f9 { padding-bottom: 72px; }
+    /* G5: sabit alt çubuk yüksekliğini yayınla (footer-3/5 kalıbı) — çerez «Tercihler» ve yüzen müzik çubuğun üstüne çıkar */
+    :root:has(.modulex-f9__bar) { --mx-altbar-h: 58px; }
     .modulex-f9__bar { display: flex; position: fixed; inset-inline: 0; bottom: 0; z-index: 9990; background: --bgcolor--; border-top: 2px solid --accent--; box-shadow: 0 -6px 20px rgba(0, 0, 0, 0.22); padding-bottom: env(safe-area-inset-bottom, 0); }
   }
 
